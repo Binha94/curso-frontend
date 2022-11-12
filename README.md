@@ -37,3 +37,12 @@ https://git-scm.com/
 
 ## GitFlow
 Fluxo do Git
+
+### Branchs 
+São ramificações / versões paralelas
+
+- main / master ( vai para produção é publicado)
+- develop 
+- DOD Definition of Done: Critérios de aceite
+
+- versionamento 1.0.0
